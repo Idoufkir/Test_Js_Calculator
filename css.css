@@ -1,0 +1,106 @@
+body{
+	background-image: url("https://images.pexels.com/photos/209224/pexels-photo-209224.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+.logo{
+	height: 150px;
+	margin-left: 240px;
+}
+.logo2{
+	height: 100px;
+	width: 120px;
+	float: right;
+	margin-top: 9em;
+	margin-right: 30px;
+}
+
+.container{
+	margin: auto;
+	height: 665px;
+	width: 700px;
+	border-radius: 5%;
+	background-color:rgba(0, 0, 0, 0.2);;
+	background-image: url('image4.png');
+	background-position: center;
+  	background-repeat: no-repeat;
+  	
+	
+}
+
+
+h1{
+	margin-left: 250px;
+}
+
+.inpt{
+	text-align: center;
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	height: 70px;
+	width: 600px;
+	font-family: "raleway";
+	background-image: url('image3.png');
+	border-radius: 26px;
+	font-size: 30px;
+	border: none;
+}
+
+
+
+#btn {
+	margin-top: 10em;
+	height: 60px;
+	width: 60px;
+	margin-left: 13%;
+	border-radius: 15px;
+	border: none;
+}
+
+.btn1{
+	background-image: url('1.png');
+	
+}
+.btn2{
+	background-image: url('2.png');
+	
+}
+.btn3{
+	background-image: url('3.png');
+	
+}
+.btn4{
+	background-image: url('4.png');
+	
+}
+
+.AResult{
+	margin-top: 48px;
+
+	
+}
+
+#Result{
+	display: table-cell;
+    vertical-align: middle;
+	height: 128px;
+	width: 700px;
+	text-align: center;
+	background-image: url('back1.png');
+
+  	border: none;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 36px;
+	font-weight:bold;
+	color: #92278F;	
+
+
+}
+
+
+
+#img1{
+	position: absolute;
+	left: 120px;
+}
+
